@@ -1,0 +1,11 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "oriage"]
+	url = git@github.com:elf9237/artDialog5.0.git
+	fetch = +refs/heads/*:refs/remotes/oriage/*
+	puttykeyfile = E:\\宏林文件\\Andy public key\\Andy.ppk
+	pushurl = git@github.com:elf9237/artDialog5.0.git
